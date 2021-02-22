@@ -1,2 +1,3 @@
 # monsters-course
-A little single page application made with React
+A little single page application made with React and hooks
+
